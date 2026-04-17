@@ -1,21 +1,23 @@
-# Hola, soy Feliciano Rodríguez López
+# Hola, soy Feliciano Rodríguez
+
+## Data Scientist Jr
 
 ---
 
 ## Sobre mi
 
-Soy Data Scientist en formación con formación en Ingeniería en Desarrollo y Gestión de Software. Me especializo en el análisis de datos utilizando herramientas como Python y SQL para descubrir patrones, generar insights y apoyar la toma de decisiones basadas en datos.
+Soy Data Scientist en formación, con base en Ingeniería en Desarrollo y Gestión de Software. Me enfoco en construir soluciones con datos usando Python y SQL, desde el análisis exploratorio hasta modelos aplicados a problemas reales.
 
-Actualmente estoy desarrollando proyectos de análisis de datos y machine learning, trabajando con datasets reales para explorar tendencias, comprender el comportamiento de los usuarios y construir modelos que permitan extraer valor de la información.
+Actualmente desarrollo proyectos de análisis de datos, machine learning y deep learning con datasets reales para identificar patrones, entrenar modelos y convertir resultados en soluciones útiles para producto.
 
-Mi experiencia previa en desarrollo de software me permite abordar los problemas de datos de forma estructurada y construir soluciones técnicas que pueden integrarse en productos y aplicaciones.
+Mi experiencia en desarrollo de software me ayuda a trabajar de forma estructurada, pensando no solo en el modelo, sino también en cómo implementarlo dentro de productos y aplicaciones que funcionen.
 
 Intereses principales:
 
 - Machine Learning
 - Deep Learning
 - AI
-- Cosas que funcionen
+- Productos que funcionen
 
 ---
 
