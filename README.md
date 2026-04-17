@@ -2,8 +2,6 @@
 
 ## Data Scientist Jr
 
----
-
 ## Sobre mi
 
 Soy Data Scientist en formación, con base en Ingeniería en Desarrollo y Gestión de Software. Me enfoco en construir soluciones con datos usando Python y SQL, desde el análisis exploratorio hasta modelos aplicados a problemas reales.
@@ -19,8 +17,6 @@ Intereses principales:
 - AI
 - Productos que funcionen
 
----
-
 ## Tecnologias y herramientas
 
 - Lenguajes: Python, SQL
@@ -28,8 +24,6 @@ Intereses principales:
 - Bases de datos: MySQL, PostgreSQL
 - Entorno: Jupyter Notebook, VS Code, Git, GitHub, Docker
 - Backend: Flask, FastAPI
-
----
 
 ## Proyectos destacados
 
@@ -46,6 +40,12 @@ Que hice:
 - Evaluacion con ROC-AUC, precision, recall y matriz de confusion
 
 Resultados:
+
+![Viajes totales por empresa](assets/images/Viajes%20totales%20por%20empresa.png)
+Este gráfico muestra los viajes totales registrados por empresa de taxis.
+
+![Promedio de viajes por barrio](assets/images/promedio%20de%20viajes%20con%20finalización%20en%20los%20barrios.png)
+Este gráfico muestra los principales barrios en terminos de finalización del viaje. Se puede ver los principales barrios a los que la gente va.
 
 - Se descubrieron las preferencias de los usuarios, los barrios a en los que los usuarios suelen terminar su viaje y que compaías de taxi son las que dominan el mercado.
 - Gracias a las pruebas estadísticas se puedo concluir que entre los viajes los días lluviosos y los días no luviosos si existe una diferencia significativa como para tratarse de simple casualidad.
@@ -85,6 +85,12 @@ Finalmente, se plantearon y evaluaron hipótesis estadísticas relacionadas con 
 
 Resultados:
 
+![Ciclo de vida de las plataformas](assets/images/lifecycle.png)
+Este gráfico muestra el ciclo de vida de las 10 principales plataformas en terminos de ventas totales. Se puede apreciar como para el caso del PlayStation, cada generación sustituye a la otra.
+
+![Juegos lanzados por año](assets/images/output.png)
+Este gráfico muestra la cantidad de juegos lanzados por cada año. Se puede ver como en 2008 y 2009 se lanzaron más juegos, pero en la actulidad el número se ha venido reducido, posiblemente se debe a que lo juegos de la actualidad son más robustos y detallados.
+
 El análisis permitió identificar varios factores asociados al éxito comercial de los videojuegos.
 
 Se observó que las plataformas tienen ciclos de vida definidos, donde las ventas crecen durante ciertos años y luego disminuyen a medida que nuevas generaciones de consolas entran al mercado.
@@ -99,11 +105,7 @@ Repositorio:
 
 - [06_store_ice](https://github.com/FelicianoRodriguez/tripleten-projects/tree/main/06_store_ice)
 
----
-
 ## Contacto
 
 - Gmail: felicianorodriguezlp@gmail.com
 - LinkedIn: https://www.linkedin.com/in/feliciano-rodriguez/
-
----
